@@ -1,0 +1,46 @@
+[
+  {
+    "stackName": "JavaScript",
+    "level": "80%"
+  },
+  {
+    "stackName": "TypeScript",
+    "level": "75%"
+  },
+  {
+    "stackName": "React",
+    "level": "70%"
+  },
+  {
+    "stackName": "React Native",
+    "level": "70%"
+  },
+  {
+    "stackName": "Git && GitHub",
+    "level": "90%"
+  },
+  {
+    "stackName": "HTML 5",
+    "level": "80%"
+  },
+  {
+    "stackName": "CSS 3",
+    "level": "80%"
+  },
+  {
+    "stackName": "NodeJS",
+    "level": "60%"
+  },
+  {
+    "stackName": "Angular",
+    "level": "60%"
+  },
+  {
+    "stackName": "Firebase",
+    "level": "40%"
+  },
+  {
+    "stackName": "MongoDB",
+    "level": "40%"
+  }
+]
